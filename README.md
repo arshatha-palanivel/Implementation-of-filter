@@ -145,20 +145,28 @@ plt.title('Laplacian Operator')
 
 
 i) Using Averaging Filter
+
+
 ![image](https://github.com/arshatha-palanivel/Implementation-of-filter/assets/118682484/c70d602f-c3f5-4d95-9c43-74404a58046f)
 
 
 ii) Using Weighted Averaging Filter
+
+
 ![image](https://github.com/arshatha-palanivel/Implementation-of-filter/assets/118682484/3d3344f1-c8ad-4134-9003-4cc1730edb62)
 
 
 
 iii) Using Gaussian Filter
+
+
 ![image](https://github.com/arshatha-palanivel/Implementation-of-filter/assets/118682484/ab119390-c3f8-44a5-91f3-c333b0a647f4)
 
 
 
 iv) Using Median Filter
+
+
 ![image](https://github.com/arshatha-palanivel/Implementation-of-filter/assets/118682484/fc16ce8e-32e2-48be-ab7f-67d188511fd5)
 
 
@@ -167,10 +175,14 @@ iv) Using Median Filter
 
 
 i) Using Laplacian Kernal
+
+
 ![image](https://github.com/arshatha-palanivel/Implementation-of-filter/assets/118682484/d2455169-2862-48af-9f39-907597d9fd60)
 
 
 ii) Using Laplacian Operator
+
+
 ![image](https://github.com/arshatha-palanivel/Implementation-of-filter/assets/118682484/cc43a4be-8f06-4ff9-8db1-73560f82d775)
 
 
